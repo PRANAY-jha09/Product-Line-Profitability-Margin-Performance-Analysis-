@@ -67,7 +67,7 @@ The core problem: **high-volume products were masking poor margins**, and the bu
 | SQL Layer | MySQL / PostgreSQL | Aggregations, window functions, KPI computation, segmentation |
 | Python EDA | pandas, matplotlib, seaborn, scipy | Data cleaning, KPI engineering, statistical tests |
 | Excel | Power Query + Pivot Tables | Stakeholder-friendly dashboard with slicers |
-| Tableau | Interactive BI report for Finance team with drill-through |
+| Tableau | Interactive Dashboard report for Finance team with drill-through |
 
 
 ---
