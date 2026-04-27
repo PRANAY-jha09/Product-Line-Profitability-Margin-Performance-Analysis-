@@ -151,13 +151,12 @@ nassau-candy-distributor/
 ├── reports/
 │   ├── nassau_eda_dashboard.png    # 6-panel visualization
 │   ├── nassau_Analysis.xlsx        # Excel pivot dashboard
-│   └── nassau_Report.pdf          # Executive PDF report (fpdf2)
+│
 │
 ├── dashboards/
-│   └── nassau_PowerBI.pbix         # Power BI report file
+│   └── nassau_tableau.twbx         # Tableau report file
 │
-├── app/
-│   └── nassau_streamlit_app.py     # Live Streamlit KPI dashboard
+|
 │
 └── README.md
 ```
